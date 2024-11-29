@@ -1,7 +1,6 @@
 package com.udemy;
 
 import org.apache.commons.lang3.math.NumberUtils;
-
 import java.util.Scanner;
 
 /**
