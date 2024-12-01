@@ -1,4 +1,4 @@
-package com.udemy.challenges.Section5;
+package com.udemy.CodingExercises.Section5;
 
 /*Leap Year Calculator
 Write a method isLeapYear with a parameter of type int named year.

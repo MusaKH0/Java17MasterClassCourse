@@ -1,4 +1,4 @@
-package com.udemy.challenges.Section5;
+package com.udemy.CodingExercises.Section5;
 
 /*DecimalComparator
 Write a method areEqualByThreeDecimalPlaces with two parameters of type double.

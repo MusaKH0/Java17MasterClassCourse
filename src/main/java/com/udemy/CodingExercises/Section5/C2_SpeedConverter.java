@@ -1,4 +1,4 @@
-package com.udemy.challenges.Section5;
+package com.udemy.CodingExercises.Section5;
 
 /*Speed Converter
 1. Write a method called toMilesPerHour that has 1 parameter of type double with the name kilometersPerHour. This method needs to return the rounded value of the calculation of type long.

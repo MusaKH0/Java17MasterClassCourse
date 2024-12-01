@@ -1,4 +1,4 @@
-package com.udemy.challenges.Section5;
+package com.udemy.CodingExercises.Section5;
 
 /*MegaBytes Converter
 Write a method called printMegaBytesAndKiloBytes that has 1 parameter of type int with the name kiloBytes.

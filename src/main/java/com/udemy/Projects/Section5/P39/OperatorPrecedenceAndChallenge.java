@@ -1,4 +1,4 @@
-package com.udemy.projects.P39;
+package com.udemy.Projects.Section5.P39;
 
 public class OperatorPrecedenceAndChallenge {
     public static void main(String[] args) {

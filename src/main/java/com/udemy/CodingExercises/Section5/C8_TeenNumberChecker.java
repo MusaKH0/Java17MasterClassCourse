@@ -1,4 +1,4 @@
-package com.udemy.challenges.Section5;
+package com.udemy.CodingExercises.Section5;
 
 /*Teen Number Checker
 We'll say that a number is "teen" if it is in the range 13 -19 (inclusive).

@@ -1,4 +1,4 @@
-package com.udemy.projects.P48;
+package com.udemy.Projects.Section5.P48;
 
 import com.udemy.Console;
 

@@ -1,4 +1,4 @@
-package com.udemy.projects.P54;
+package com.udemy.Projects.Section5.P54;
 
 public class SecondsAndMinutesChallenge {
 

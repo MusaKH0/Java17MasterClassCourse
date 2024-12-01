@@ -1,4 +1,4 @@
-package com.udemy.projects.P44;
+package com.udemy.Projects.Section5.P44;
 
 public class IfKeyWordAndCodeBlocks {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.udemy.challenges.Section5;
+package com.udemy.CodingExercises.Section5;
 
 /*Equal Sum Checker
 Write a method hasEqualSum with 3 parameters of type int.

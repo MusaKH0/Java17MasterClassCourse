@@ -1,4 +1,4 @@
-package com.udemy.challenges.Section5;
+package com.udemy.CodingExercises.Section5;
 
 /*Positive, Negative or Zero
 Write a method called checkNumber with an int parameter named number.
